@@ -47,4 +47,11 @@
 		"date": "February 28",
 		"image": "api.png"
 	}
+	,
+	{
+		"id": "lab-9",
+		"title": "Debugging",
+		"date": "February 28",
+		"image": "debug.png"
+	}
 ]
